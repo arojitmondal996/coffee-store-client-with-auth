@@ -72,7 +72,7 @@ const Signin = () => {
                                 <div className="form-control mt-6">
                                     <button className="btn btn-primary">SignIp</button>
                                 </div>
-                                <p>New to Coffee Drinker: <Link to={"/signup"}>Sign up</Link></p>
+                                <p>New to Coffee Drinker: <Link to={"/signup"}>Sign Up</Link></p>
                             </form>
                         </div>
                     </div>
